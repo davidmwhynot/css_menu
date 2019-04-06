@@ -7,11 +7,31 @@ nav {
   font-family: $font-family;
   background-color: $color;
 
-  // TODO
+  // reset
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  * {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+  }
+  a {
+    text-decoration: none;
+    color: inherit;
+  }
+  button {
+    all: unset;
+  }
 
   @media (max-width: $breakpoint) {
     // TODO
   }
+}
+
+// reset
+body {
+  margin: 0;
 }
 
 h1 {
