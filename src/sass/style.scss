@@ -27,11 +27,11 @@ nav {
   // common
   // TODO
 
-  // large screens
+  // small screens
   // TODO
 
-  // small screens
-  @media (max-width: $breakpoint) {
+  // large screens
+  @media (min-width: $breakpoint) {
     // TODO
   }
 }
