@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/davidmwhynot/css_menu/issues"
   },
-  "homepage": "https://github.com/davidmwhynot/css_menu#readme"
+  "homepage": "https://github.com/davidmwhynot/css_menu#readme",
+  "devDependencies": {
+    "gulp": "^4.0.0",
+    "gulp-autoprefixer": "^6.0.0",
+    "gulp-sass": "^4.0.2",
+    "prettier": "^1.16.4"
+  }
 }
