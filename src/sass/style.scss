@@ -1,4 +1,18 @@
+// imports
 @import "variables";
+
+@import url($font-loc);
+
+nav {
+  font-family: $font-family;
+  background-color: $color;
+
+  // TODO
+
+  @media (max-width: $breakpoint) {
+    // TODO
+  }
+}
 
 h1 {
   color: red;
