@@ -1,0 +1,19 @@
+{
+  "name": "css_menu",
+  "version": "1.0.0",
+  "description": "CSS menu",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidmwhynot/css_menu.git"
+  },
+  "author": "David Whynot",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/davidmwhynot/css_menu/issues"
+  },
+  "homepage": "https://github.com/davidmwhynot/css_menu#readme"
+}
